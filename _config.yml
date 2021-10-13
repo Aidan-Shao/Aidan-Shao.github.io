@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ziteng Jiao"
+title                    : "Kunming Shao"
 title_separator          : "-"
-name                     : &name "Ziteng Jiao"
-description              : &description "Undergraduate Student at Purdue University"
-url                      : https://zjiao19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Kunming Shao"
+description              : &description "Undergraduate Student at Purdue University" # 改
+url                      : https://Aidan-Shao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zjiao19.github.io"
+repository               : "Aidan-Shao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ziteng Jiao"
+  name             : "Kunming Shao"
   avatar           : "profile.png"
-  bio              : "Purdue University <br/>Computer Science <br/>Undergraduate Student"
+  bio              : "Purdue University <br/>Computer Science <br/>Undergraduate Student" # 改
   location         : "West Lafayette, IN"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zjiao19"
+  github           : "Aidan-Shao"
   google_plus      :
   keybase          :
   instagram        :
