@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm an undergraduate student studying Computer Science and Math at Purdue University. 
+Hi, I'm an undergraduate student studying ABE at Purdue University. 
