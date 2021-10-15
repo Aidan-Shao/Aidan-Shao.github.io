@@ -15,6 +15,16 @@ EDUCATION
   * Major: Biological Engineering /Cellular and Biomolecular Engineering 
   * Minor: Biotechnology 
 
+HONORS AND AWARDS
+======
+* Recipient of the 2021-2022 Ladisch ABE Scholarship  (April, 2021)          
+* Recipient of the 2020-2021 Alumni & Friends of ABE Scholarship  (April, 2020)                                                                           
+* Purdue Soybean Innovation Competition Reward (May, 2020)
+* Dean’s List and Semester Honors, College of Engineering (2019 - 2021)
+* Dean’s List and Semester Honors, College of Science     (2018)
+* Final design project best poster content, ENGR 131      (April, 2018)                                  
+* Certificate of Excellence for outstanding performance, ENGR 131    (April, 2018 )                                                                   
+
 RESEARCH EXPERIENCE 
 ======
 * Undergraduate Researcher in the Purdue Center for Cancer Research 
