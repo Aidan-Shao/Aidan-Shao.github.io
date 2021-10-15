@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kunming Shao"
 title_separator          : "-"
 name                     : &name "Kunming Shao"
-description              : &description "Undergraduate Student at Purdue University" # 改
+description              : &description "Undergraduate Student in Purdue University" 
 url                      : https://Aidan-Shao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Aidan-Shao.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kunming Shao"
   avatar           : "profile.png"
-  bio              : "Purdue University <br/>Computer Science <br/>Undergraduate Student" # 改
+  bio              : "Purdue University <br/> Biological Engineering <br/>Undergraduate Student" 
   location         : "West Lafayette, IN"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "shao108@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           : "Aidan-Shao"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/shaokunming02102019/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
