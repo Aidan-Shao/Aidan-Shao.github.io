@@ -67,5 +67,5 @@ SKILLS
 * Languages: MATLAB, Python, Macro, R, Linux
 * Software: ImageJ, GIMP, JMP, DNA master, Bash, FlowJo
 * Biological Laboratory Techniques: Adept in qRT-PCR, DNA & RNA extraction, gel electropho-resis, cell maintenance, Western blot, Flow cytometry
-* Omics: RNA-seq; CHIP-seq; Single Cell RNA-seq
+* Omics: Bulk mRNA-seq; CHIP-seq; Single Cell RNA-seq
 
