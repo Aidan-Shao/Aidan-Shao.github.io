@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV](http://www.kunmingshao.com/files/CV_KunmingShao.pdf)
+
 EDUCATION
 ======
 * B.S. in Purdue University, West Lafayette, IN
