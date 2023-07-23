@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](http://www.kunmingshao.com/files/CV_KunmingShao.pdf)
+[Download CV](http://www.kunmingshao.com/files/Kunming_Shao_CV_2023.pdf)
 
 EDUCATION
 ======
 * B.S. in Purdue University, West Lafayette, IN
   * Major: Biological Engineering /Cellular and Biomolecular Engineering 
   * Minor: Biotechnology 
+* Ph.D. Student, Purdue University, West Lafayette, IN
+  *PULSe Program - Computational and Systems Biology
 
 HONORS AND AWARDS
 ======
@@ -29,40 +31,17 @@ HONORS AND AWARDS
 
 RESEARCH EXPERIENCE 
 ======
+* Graduate Research Assistant
+  * April 2023 - Present
+  * Working on optimize CAR-Neutrophils for Immunotherapy
+
+
 * Undergraduate Researcher in the Purdue Center for Cancer Research 
-  * January 2021 - Present
-  * Purdue University
+  * August 2019 - Dec 2022
+  * Working on novel noncoding RNA in Immune system 
+
+
   <!-- * Duties included: Merging pull requests -->
-  * Supervisor: Dr. Majid Kazemian
-
-* Summer Undergraduate Research Fellowship (SURF)
-  * May 2021 - Aug 2021
-  * Department of Biochemistry, Purdue University
-  * Supervisor: Dr. Majid Kazemian
-
-* Purdue University Student Soybean Innovation Competition
-  * August 2019 - May 2020
-  * Department of Agriculture and Biological Engineering, Purdue University
-  <!-- * Duties included: Merging pull requests -->
-  * Supervisor: Dr. Kingsly Ambrose
-
-* Undergraduate Research Project
-  * Sep 2020 - Dec 2020
-  * Department of Biological Sciences, Purdue University
-  <!-- * Duties included: Tagging issues -->
-  * Supervisor: Dr. Kari Clase
-
-* Undergraduate Researche assistant 
-  * August 2019 - Jan 2020
-  * Department of Biological Sciences, Purdue University
-  <!-- * Duties included: Merging pull requests -->
-  * Supervisor: Dr. Zhao-Qing Luo
-
-* Undergraduate Researche assistant 
-  * May 2019 - Aug 2019
-  * Department of Botany and Plant Pathology, Purdue University
-  <!-- * Duties included: Merging pull requests -->
-  * Supervisor: Dr. Gordon G McNickle
 
 SKILLS
 ======
