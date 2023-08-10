@@ -18,7 +18,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Gene Data"
+  - title: "Zebrafish Epithelial cell RNA-seq Data"
     url: /skm-gene-data/
     
   # - title: "Guide"
