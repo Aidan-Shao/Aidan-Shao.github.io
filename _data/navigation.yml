@@ -12,11 +12,14 @@ main:
   # - title: "Portfolio"
   #  url: /portfolio/
         
-  - #title: "Blog Posts"
-    #url: /year-archive/
+  # - title: "Blog Posts"
+  #  url: /year-archive/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Gene Data"
+    url: /skm-gene-data/
     
   # - title: "Guide"
   #   url: /markdown/
