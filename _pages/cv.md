@@ -14,13 +14,14 @@ redirect_from:
 EDUCATION
 ======
 * B.S. in Purdue University, West Lafayette, IN
-  * Major: Biological Engineering /Cellular and Biomolecular Engineering 
+  * Major: Biological Engineering / Cellular and Biomolecular Engineering 
   * Minor: Biotechnology 
 * Ph.D. Student, Purdue University, West Lafayette, IN
-  * PULSe Program - Computational and Systems Biology
+  * PULSe Program - Computational and System Biology
   
 HONORS AND AWARDS
 ======
+* Recipient of the [Lynn Fellowship](https://www.purdue.edu/gradschool/fellowship/fellowship-resources-for-staff/managed-fellowships/recruitment-fellowships.html) (2022-2023)
 * Recipient of the 2021-2022 Ladisch ABE Scholarship  (April, 2021)          
 * Recipient of the 2020-2021 Alumni & Friends of ABE Scholarship  (April, 2020)                                                                           
 * Purdue Soybean Innovation Competition Reward (May, 2020)
@@ -49,7 +50,7 @@ RESEARCH EXPERIENCE
 SKILLS
 ======
 * Programming: MATLAB, Python, Macro, R, Linux, Latex, SQL
-* Software: ImageJ, GIMP, JMP, DNA master, Bash, FlowJo,Colab, Jupyter Notebook
-* Biological Laboratory Techniques: Adept in qRT-PCR, DNA & RNA extraction, clonning, confocal imaging, gel electropho-resis, cell culture, Western blot, Flow cytometry
-* Omics: Bulk RNA-seq;ATAC-seq; CHIP-seq; Single Cell RNA-seq
+* Software: ImageJ, GIMP, JMP, DNA master, Bash, FlowJo, Colab, Jupyter Notebook, IGV
+* Biological Laboratory Techniques: Adept in qRT-PCR, DNA & RNA extraction, clonning, confocal imaging, gel electrophoresis, cell culture, Western blot, Flow cytometry, stem cell differentiation 
+* Omics: Bulk RNA-seq; ATAC-seq; CHIP-seq; Single Cell RNA-seq
 
