@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kunming Shao"
 title_separator          : "-"
 name                     : &name "Kunming Shao"
-description              : &description "Ph.D. Student in Purdue University" 
+description              : &description "Ph.D. Candidate at Purdue University" 
 url                      : https://Aidan-Shao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Aidan-Shao.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kunming Shao"
   avatar           : "profile.png"
-  bio              : "Purdue University <br/> Immunology/Immunotherapy <br/> Ph.D. Student" 
+  bio              : "Purdue University <br/> Immunology/Immunotherapy <br/> Ph.D. Candidate" 
   location         : "West Lafayette, IN"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
