@@ -16,7 +16,7 @@ EDUCATION
 * B.S. in Purdue University, West Lafayette, IN
   * Major: Biological Engineering / Cellular and Biomolecular Engineering 
   * Minor: Biotechnology 
-* Ph.D. Student, Purdue University, West Lafayette, IN
+* Ph.D. Candidate, Purdue University, West Lafayette, IN
   * PULSe Program - Computational and System Biology
   
 HONORS AND AWARDS
