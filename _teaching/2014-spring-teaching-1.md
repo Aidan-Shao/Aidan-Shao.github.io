@@ -13,7 +13,7 @@ location: "West Lafayette, USA"
 This course provides an in-depth exploration of the immune system, focusing on the key distinctions between the innate and adaptive immune responses. Students will gain a comprehensive understanding of the various components that make up the immune system, including the complement system, cytokines, and the intricate network of immune cells. Through a detailed examination of immune pathways, such as antigen presentation, T-cell activation, and antibody production, the course will highlight the mechanisms that protect the body against pathogens. By the end of this course, students will have a solid foundation in immunobiology, equipping them with the knowledge to understand and engage with advanced immunological concepts.
 
 **Prerequisites:** Basic knowledge of cell biology and molecular biology is recommended.
-**Note:** All slides used in this course are created by Dr. Qing Deng, who holds all rights of interpretation. For more information, please visit [Dr. Qing Deng's website](https://www.denglab.us/home).
+**Note:** All slides used in this course are created by Dr. Qing Deng, who holds all rights of interpretation. For more information, please visit [Dr. Qing Deng's Lab website](https://www.denglab.us/home).
 
 
 Lecture 1
