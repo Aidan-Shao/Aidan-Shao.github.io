@@ -30,4 +30,4 @@ Lecture 3
 
 Lecture 4
 =========
-[Download Lecture 4 PDF](http://www.kunmingshao.com/files/BIO537_L4.pdf)
+[Download Lecture 4 PDF](https://drive.google.com/file/d/1lmM4BnrZLmzkZfkvmFeMvLawEo93GA_a/view?usp=sharing)
