@@ -51,7 +51,7 @@ SKILLS
 ======
 * Programming: MATLAB, Python, Macro, R, Linux, Latex, SQL
 * Software: ImageJ, GIMP, JMP, DNA master, Bash, FlowJo, Colab, Jupyter Notebook, IGV
-* Biological Laboratory Techniques: Adept in qRT-PCR, DNA & RNA extraction, clonning, confocal imaging, gel electrophoresis, cell culture, Western blot, Flow cytometry, stem cell differentiation 
+* Biological Laboratory Techniques: Adept in PCR, qPCR, qRT-PCR, DNA & RNA extraction, Clonning, Confocal imaging, Gel electrophoresis, Cell culture, Western blot, Flow cytometry, Stem cell differentiation 
 * Omics: Bulk RNA-seq; ATAC-seq; CHIP-seq; Single Cell RNA-seq
 * Animal Model: Mus Musculus；Danio Rerio
 
