@@ -54,4 +54,4 @@ SKILLS
 * Biological Laboratory Techniques: Adept in PCR, qPCR, qRT-PCR, DNA & RNA extraction, Clonning, Confocal imaging, Gel electrophoresis, Cell culture, Western blot, Flow cytometry, Stem cell differentiation 
 * Omics: Bulk RNA-seq; ATAC-seq; CHIP-seq; Single Cell RNA-seq
 * Animal Model: Mus Musculus；Danio Rerio
-
+* Artificial Intelligence & Deep Learning: TensorFlow, PyTorch, and leveraging Large Language Models (LLMs) for data analysis, natural language processing, and predictive modeling
