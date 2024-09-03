@@ -3,7 +3,7 @@ title: "Zebrafish Bulk RNA-seq Analysis Pipeline"
 collection: teaching
 type: "Teaching Resource"
 permalink: /teaching/2024-Bulk-RNA-seq-Pipeline
-date: 2024-08-01
+date:2024-08-01
 location: "West Lafayette, USA"
 ---
 
