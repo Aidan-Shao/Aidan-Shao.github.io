@@ -1,1 +1,18 @@
+---
+title: "scChat: A Large Language Model-Powered Co-Pilot for Contextualized Single-Cell RNA Sequencing Analysis"
+collection: publications
+permalink: /publication/2024_new
+excerpt: 'We introduce scChat, a pioneering AI assistant designed for contextualized scRNA-seq analysis. Unlike existing tools that focus on standard tasks like cell annotation, scChat offers advanced capabilities, including research context-based analysis of experimental outcomes and suggestions for next-step experimental design.'
+date: 2024-10-01
+venue: 'Preprint'
+paperurl: 'https://doi.org/10.1101/2024.10.01.616063'
+citation: 'Yen-Chun Lu et al. scChat: A Large Language Model-Powered Co-Pilot for Contextualized Single-Cell RNA Sequencing Analysis. Preprint 2024. doi:10.1101/2024.10.01.616063'
+---
+
+**Abstract**  
+Data-driven methods, including unsupervised and supervised learning, have become essential tools for analyzing single-cell RNA sequencing (scRNA-seq) data. However, these approaches cannot incorporate research context into the analysis, limiting their ability to provide in-depth, contextual insights to researchers. We introduce scChat, a pioneering AI assistant designed for contextualized scRNA-seq analysis. Unlike existing tools that focus on standard tasks like cell annotation, scChat offers advanced capabilities, including research context-based analysis of experimental outcomes, detailed validation of research hypotheses, identification of potential explanations when hypotheses fail, and suggestions for next-step experimental design. Powered by a large language model, scChat integrates function calls for quantitative tasks, employs retrieval-augmented generation to reduce hallucination, and uses an LLM-powered search engine to seamlessly incorporate current literature into the analytical conversation.
+
+[Download preprint here](https://doi.org/10.1101/2024.10.01.616063)
+
+Recommended citation: Yen-Chun Lu et al. *scChat: A Large Language Model-Powered Co-Pilot for Contextualized Single-Cell RNA Sequencing Analysis*. Preprint 2024. doi:10.1101/2024.10.01.616063
 
