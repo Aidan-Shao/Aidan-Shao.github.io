@@ -114,3 +114,5 @@ Exam Preparation & Resources
 Included here are comprehensive review materials we have summarized, featuring past exams and key summary sections to aid your studies. Please **respect the author's intellectual property**; do not distribute or share these files arbitrarily.
 
 [Download Past Exams and Summaries](http://www.kunmingshao.com/files/Fw_%20Previous%20exam%20for%20BIOL537.zip)
+
+（Copy and paste in the new website to download files）
