@@ -47,12 +47,14 @@ o Study the mechanisms of how L. pneumophila modulates apoptotic pathways to pro
 
 ## HONORS AND AWARDS
 
-• Recipient of the OIGP Bilsland Dissertation Fellowship 2026 - 2027
-• Recipient of the Lynn Fellowship 2022  
-• Recipient of the 2021-2022 Ladisch ABE Scholarship 2021  
-• Recipient of the 2020-2021 Alumni & Friends of ABE Scholarship 2020  
-• Purdue Soybean Innovation Competition Award 2020  
-• Dean’s List and Semester Honors, College of Engineering 2018 – 2021  
+<ul>
+  <li>OIGP Bilsland Dissertation Fellowship, 2026</li>
+  <li>Lynn Fellowship, 2022</li>
+  <li>Ladisch ABE Scholarship, 2021–2022</li>
+  <li>Alumni & Friends of ABE Scholarship, 2020–2021</li>
+  <li>Purdue Soybean Innovation Competition Award, 2020</li>
+  <li>Dean’s List and Semester Honors, College of Engineering, 2018–2021</li>
+</ul>
 
 ## SKILLS
 
