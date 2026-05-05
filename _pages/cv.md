@@ -47,6 +47,7 @@ o Study the mechanisms of how L. pneumophila modulates apoptotic pathways to pro
 
 ## HONORS AND AWARDS
 
+• Recipient of the OIGP Bilsland Dissertation Fellowship 2026 - 2027
 • Recipient of the Lynn Fellowship 2022  
 • Recipient of the 2021-2022 Ladisch ABE Scholarship 2021  
 • Recipient of the 2020-2021 Alumni & Friends of ABE Scholarship 2020  
