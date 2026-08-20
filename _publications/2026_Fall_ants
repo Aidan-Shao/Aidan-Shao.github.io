@@ -1,0 +1,16 @@
+---
+title: "ANTS: an end-to-end automated platform for neutrophil chemotaxis imaging, tracking and behavioral profiling"
+collection: publications
+permalink: /publication/2026_Fall_ants
+excerpt: "We develop ANTS, an end-to-end platform integrating a 3D-printed chemotaxis device with deep-learning-based neutrophil tracking and automated behavioral profiling from label-free time-lapse imaging."
+date: ""
+venue: "bioRxiv"
+citation: "<strong>Kunming Shao</strong>, Mengbo Wang, Conwy Zheng, Shaiv Mehra, Shourya Verma, Zhaolun Liang, Ding Chag, Xiaoping Bao, Ananth Grama, Qing Deng, bioRxiv"
+paperurl: ""
+---
+
+**Abstract** Neutrophil chemotaxis is essential for innate immunity. Automated profiling of label-free primary human neutrophils is limited by rapid amoeboid motion and low image contrast. Here we report ANTS, an end-to-end platform that combines a 3D-printed under-agarose chemotaxis device with a deep-learning pipeline for segmentation and cell association, followed by automated feature extraction from brightfield time-lapse recordings. ANTS maintains chemoattractant gradients for over five hours, plots primary human neutrophil trajectories comparable to expert annotations, and is applicable to commercial chemotaxis devices, such as IBIDI chemotaxis devices, without additional training. ANTS extracts kinetic, morphological, intensity, and texture features to resolve discrete behavioral states, enabling behavioral profiling of human neutrophil migration and responses to pharmacological perturbations. The Piezo1 agonist Yoda1 pretreatment converges on a compact, highly directional state during neutrophil chemotaxis toward fMLP. Yoda1 increases directness and persistence while reducing speed, revealing a decoupling of velocity from directionality. Finally, we developed a browser-based annotation interface and a curated trajectory archive to support the community expansion of training data and future trajectory model development. ANTS provides an accessible, quantitative, and computationally rigorous platform for neutrophil behavioral phenotyping, supporting direct applications in pharmacological screening and mechanistic dissection of innate immune responses.
+
+**Keywords:** Neutrophils, Chemotaxis, Cell Migration, Machine Learning, Virtual Cell
+
+[Read article here]()
