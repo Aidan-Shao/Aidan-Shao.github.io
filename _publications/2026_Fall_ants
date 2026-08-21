@@ -3,7 +3,7 @@ title: "ANTS: an end-to-end automated platform for neutrophil chemotaxis imaging
 collection: publications
 permalink: /publication/2026_Fall_ants
 excerpt: "We develop ANTS, an end-to-end platform integrating a 3D-printed chemotaxis device with deep-learning-based neutrophil tracking and automated behavioral profiling from label-free time-lapse imaging."
-date: ""
+date: 2026-08-20
 venue: "bioRxiv"
 citation: "<strong>Kunming Shao</strong>, Mengbo Wang, Conwy Zheng, Shaiv Mehra, Shourya Verma, Zhaolun Liang, Ding Chag, Xiaoping Bao, Ananth Grama, Qing Deng, bioRxiv"
 paperurl: ""
