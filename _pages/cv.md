@@ -56,6 +56,9 @@ o Study the mechanisms of how L. pneumophila modulates apoptotic pathways to pro
   <li>Dean’s List and Semester Honors, College of Engineering, 2018–2021</li>
 </ul>
 
+## MEMBERSHIP
+** Member of Society for Leukocyte Biology **
+
 ## SKILLS
 
 • Programming: Python, R, MATLAB, SQL, Linux/Unix Shell Scripting (Bash), LaTeX, ImageJ Macro, VBA, Git  
